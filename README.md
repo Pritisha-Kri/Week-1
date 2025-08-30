@@ -48,8 +48,9 @@ The 2018 Kerala floods were among the worst in a century, causing widespread dev
 
 
 ## 👩‍💻 Author
-- [Your Name]
+- Pritisha Kumari
 
 
 ## ⭐️ Star this project if you find it useful!
+
 
